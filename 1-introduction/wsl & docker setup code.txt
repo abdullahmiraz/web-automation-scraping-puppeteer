@@ -1,0 +1,30 @@
+Tutorial:    https://youtu.be/dQ8BsPANhZM?si=vjxhauWp01hYRRt7
+install wsl and ubuntu
+my id: app app
+steps:   
+
+1. open cmd and type `wsl --install`  or goto ms store and install wsl and ubuntu 
+2. update ubuntu: sudo apt update
+3. sudo apt install zsh curl build-essential ==== install tools
+4. sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" ========== install https://ohmyz.sh/
+5. curl -sS https://webi.sh/ | sh ==== install webi
+6. TO FINISH: copy, paste & run the following command:
+source ~/.config/envman/PATH.env
+
+7. webi node@lts ==== install node through webi 
+8. npm i -g yarn pm2
+9. sudo nano /etc/wsl.conf 
+next:  [boot]
+systemd=true  ============ wsl systemd
+10. curl -fsSL https://get.docker.com -o get-docker.sh
+sh get-docker.sh
+11. sudo usermod -aG docker $USER
+
+12. newgrp docker
+
+13. docker run hello-world
+
+
+
+
+

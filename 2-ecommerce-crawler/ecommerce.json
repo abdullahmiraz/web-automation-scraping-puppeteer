@@ -1,0 +1,118 @@
+{
+  "https://www.studioneat.com/products/markone": {
+    "productLink": "https://www.studioneat.com/products/markone",
+    "tagline": "A Minimal, Durable, Retractable Pen",
+    "price": "$75",
+    "description": "Mark One is a custom machined, all-metal, retractable pen with a ceramic based exterior coating for long lasting durability. It’s built for our favorite <a href=\"/products/refill\">rollerball refill</a>, and has a satisfying-as-heck custom click mechanism.",
+    "variants": [
+      "Black + Nickel",
+      "Black + Copper",
+      "White + Copper",
+      "White + Nickel"
+    ]
+  },
+  "https://www.studioneat.com/products/marktwo": {
+    "productLink": "https://www.studioneat.com/products/marktwo",
+    "tagline": "A Minimal and Durable Pocket Pen",
+    "price": "$125",
+    "description": "Mark Two is a custom machined, all-metal pocket pen small enough to take with you, but extends to a full length when in use. Built to last a lifetime, it comes with a special mini version of our favorite rollerball refill.",
+    "variants": [
+      "Silver - With Clip",
+      "Black - With Clip",
+      "Silver - No Clip",
+      "Black - No Clip"
+    ]
+  },
+  "https://www.studioneat.com/products/materialdock": {
+    "productLink": "https://www.studioneat.com/products/materialdock",
+    "tagline": "Wood Docks for MagSafe",
+    "price": "$85",
+    "description": "Turn your MagSafe connector into a stationary dock for your iPhone. These bring-your-own-cable walnut docks create a lovely place to charge your iPhone, AirPods, and Apple Watch.",
+    "variants": [
+      "Trio (iPhone, AirPods, and Apple Watch)",
+      "Upright Duo (iPhone and AirPods)",
+      "Duo (iPhone and Apple Watch)",
+      "Solo (iPhone)"
+    ]
+  },
+  "https://www.studioneat.com/products/panobook": {
+    "productLink": "https://www.studioneat.com/products/panobook",
+    "tagline": "A Notebook for Your Desk",
+    "price": "$20",
+    "description": "Panobook is a panoramic notebook for your desk, and eventually, your shelf. Made of quality materials and thoughtful details, and includes a slipcase for archiving when you’re finished.",
+    "variants": []
+  },
+  "https://www.studioneat.com/products/markthree": {
+    "productLink": "https://www.studioneat.com/products/markthree",
+    "tagline": "A Minimal and Durable Mechanical Pencil",
+    "price": "$75",
+    "description": "Mark Three is a custom machined mechanical pencil with a ceramic based exterior coating for long lasting durability. It comes with 0.7 mm lead, but it’s easy to swap in a 0.5 mm lead advancer.",
+    "variants": [
+      "Black + Silver",
+      "Black + Copper",
+      "White + Copper",
+      "White + Silver"
+    ]
+  },
+  "https://www.studioneat.com/products/totebook": {
+    "productLink": "https://www.studioneat.com/products/totebook",
+    "tagline": "A Notebook to Take With You",
+    "price": "$20",
+    "description": "Totebook is a thin, light, and flexible notebook, perfect for tucking in your bag to bring with you. Made of quality materials and thoughtful details, and includes a spine sticker for labeling and archiving. Comes in two sizes.",
+    "variants": [
+      "Standard, 2-pack",
+      "Mini, 3-pack"
+    ]
+  },
+  "https://www.studioneat.com/products/panopad": {
+    "productLink": "https://www.studioneat.com/products/panopad",
+    "tagline": "A Panoramic Scratch Pad for Your Desk.",
+    "price": "$20",
+    "description": "Panopad is a low profile, large format sticky pad for your desk. Made of quality paper and a thoughtful dot grid, use it as a scratch pad or to stick your ideas to the wall. Comes as a 2-pack.",
+    "variants": []
+  },
+  "https://www.studioneat.com/products/pentray": {
+    "productLink": "https://www.studioneat.com/products/pentray",
+    "tagline": "Walnut Desk Trays for Your Pens",
+    "price": "$38",
+    "description": "Give your writing utensils a lovely home on your desk. Milled from a solid piece of walnut, right here in Austin, Texas.",
+    "variants": [
+      "Dual",
+      "Single"
+    ]
+  },
+  "https://www.studioneat.com/products/glif": {
+    "productLink": "https://www.studioneat.com/products/glif",
+    "tagline": "A Tripod Mount for Smartphones",
+    "price": "$28",
+    "description": "The all-new and completely redesigned version of the Glif holds your smartphone securely in portrait or landscape with a quick release lever, and includes three tripod mounts for <a href=\"https://www.studioneat.com/pages/glifaccessories\">additional accessories</a>.",
+    "variants": [
+      "Glif Only (Backordered)",
+      "Full Set (Glif + Hand Grip + Wrist Strap)"
+    ]
+  },
+  "https://www.studioneat.com/products/canopy": {
+    "productLink": "https://www.studioneat.com/products/canopy",
+    "tagline": "Keyboard Case and iPad Stand",
+    "price": "$40",
+    "description": "Canopy is a case for your Apple Magic Keyboard that folds open to create a stand for your iPad or iPhone. Now you can use a full size, honest-to-god keyboard with your device.",
+    "variants": []
+  },
+  "https://www.studioneat.com/products/cosmonaut": {
+    "productLink": "https://www.studioneat.com/products/cosmonaut",
+    "tagline": "Wide-Grip Stylus for Touchscreens",
+    "price": "$25",
+    "description": "The Cosmonaut was born out of our desire to have a really great stylus for our iPads. A stylus that just feels right.",
+    "variants": []
+  },
+  "https://www.studioneat.com/products/remote": {
+    "productLink": "https://www.studioneat.com/products/remote",
+    "tagline": "Walnut Stand for the Apple TV Remote",
+    "price": "$15",
+    "description": "You're going to lose your remote. We made this little walnut stand so your Apple TV remote always has a home. Peace of mind.",
+    "variants": [
+      "2nd Generation (2021)",
+      "1st Generation"
+    ]
+  }
+}
